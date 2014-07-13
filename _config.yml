@@ -6,6 +6,9 @@ baseurl: ""
 url: "http://bookhelenem.fr"
 permalink: /:categories/:title
 
+pygments: true
+github: [Repository metadata]
+
 # Build settings
 markdown: kramdown
 permalink: pretty
