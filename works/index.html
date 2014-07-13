@@ -7,7 +7,7 @@ title: Projets
   {% for work in site.categories.work %}
     <li>
       <img src="{{ work.image.column }}">
-      <a href="{{ work.url }}">{{ work.title }}</a>
+      <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
       {{ work.client }}
     </li>
   {% endfor %}

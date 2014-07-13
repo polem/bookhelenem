@@ -44,6 +44,20 @@ prismic.Api('https://book-helenem.prismic.io/api', function(error, api) {
           'client' : item.fragments['work.client'].value[0]['text']
         };
 
+        work.gallery = [];
+
+        if(typeof item.fragments['work.gallery'] !== 'undefined') {
+          item.fragments['work.gallery'].value.forEach(function(data) {
+
+            var image = {
+              'icon'   : data.image.value.views.icon.url,
+              'wide'   : data.image.value.views.wide.url,
+              'column' : data.image.value.views.column.url
+            }
+            work.gallery.push(image);
+          });
+        }
+
         if(typeof item.fragments['work.image'] !== 'undefined') {
           work.image = {
             'icon'   : item.fragments['work.image'].value.views.icon.url,
