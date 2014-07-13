@@ -13,6 +13,6 @@ github: [Repository metadata]
 markdown: kramdown
 permalink: pretty
 
-baseurl: bookhelenem
+baseurl: /bookhelenem
 
 exclude: ['node_modules']
