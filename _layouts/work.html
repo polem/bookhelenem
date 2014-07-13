@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="meta">{{ page.client }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+
+     <ul>
+         {% for image in page.gallery %}
+         <li>
+             <img src="{{ image.wide }}" />
+         </li>
+         {% endfor %}
+     </ul>
+
+  {{ content }}
+  </article>
+
+</div>
