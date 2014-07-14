@@ -1,9 +1,6 @@
 ---
 title: Fiches produit
-client:
-  - type: heading2
-    text: Désialis
-    spans: []
+client: Désialis
 gallery:
   - icon: "https://prismic-io.s3.amazonaws.com/book-helenem/a49ece390ace6b14a3e86be9dc6a196a2baa8a35.jpg"
     wide: "https://prismic-io.s3.amazonaws.com/book-helenem/82c7969d8c4b249a6f383ad2ef78e8a740589620.jpg"

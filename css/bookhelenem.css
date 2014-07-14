@@ -8,3 +8,60 @@
 #grid img {
     width: 100%;
 }
+
+.site-header .titles {
+    float: left;
+}
+
+.site-header .site-title a,
+.site-header .site-description {
+    color: #fff;
+}
+
+.site-header .site-title {
+    line-height: 1.5em;
+    font-size: 180%;
+    float: none;
+    padding: 6px 5px 0 5px;
+    display: inline-block;
+    background-color: #333333;
+    font-weight: normal;
+}
+
+.site-header .site-description {
+    font-size: 120%;
+    font-weight: normal;
+    display: inline-block;
+    font-family: 'Georgia';
+    font-style: italic;
+    padding: 3px 5px;
+    background-color: #474747;
+}
+
+.work {
+    position: relative;
+}
+
+.work .title,
+.work .client {
+    color: #fff;
+    position: absolute;
+    z-index: 2;
+    bottom: 10px;
+    left: -2px;
+    display: inline-block;
+    padding: 1px 5px;
+}
+
+.work .title {
+    bottom: 31px;
+    background-color: #333333;
+}
+
+.work .client {
+    font-size: 80%;
+    background-color: #474747;
+    font-family: 'Georgia';
+    font-style: italic;
+}
+

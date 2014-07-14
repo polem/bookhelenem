@@ -23,9 +23,9 @@ var generateWorkFile = function(datas, slug) {
     if(err) {
       console.log(err);
     } else {
-      console.log("The file was saved!");
+      console.log(slug + ".md saved");
     }
-  }); 
+  });
 }
 
 prismic.Api('https://book-helenem.prismic.io/api', function(error, api) {
