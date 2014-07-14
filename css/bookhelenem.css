@@ -2,8 +2,19 @@
     content: '3 .column.size-1of3';
 }
 
+body,
+html,
+.page-content {
+    background: #F3F3F3;
+}
+
 .column { float: left; }
-.size-1of3 { width: 33.333%; }
+
+.size-1of3 {
+    width: 31%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
 
 #grid img {
     width: 100%;
@@ -40,6 +51,8 @@
 
 .work {
     position: relative;
+    box-shadow: -1px 2px 1px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
 }
 
 .work .title,
@@ -47,19 +60,26 @@
     color: #fff;
     position: absolute;
     z-index: 2;
-    bottom: 10px;
+    bottom: 20px;
     left: -2px;
     display: inline-block;
     padding: 1px 5px;
 }
 
 .work .title {
-    bottom: 31px;
+    bottom: 46px;
+    font-size: 120%;
     background-color: #333333;
 }
 
+.work img {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
 .work .client {
-    font-size: 80%;
+    font-size: 100%;
     background-color: #474747;
     font-family: 'Georgia';
     font-style: italic;
