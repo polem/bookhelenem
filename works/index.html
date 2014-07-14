@@ -3,12 +3,12 @@ layout: page
 title: Projets
 ---
 
-<ul>
-  {% for work in site.categories.work %}
-    <li>
-      <img src="{{ work.image.column }}">
-      <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
-      {{ work.client }}
-    </li>
-  {% endfor %}
-</ul>
+<div id="grid" data-columns>
+    {% for work in site.categories.work %}
+    <div>
+        <img src="{{ work.image.column }}">
+        <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
+        {{ work.client }}
+    </div>
+    {% endfor %}
+</div>

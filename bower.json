@@ -1,0 +1,22 @@
+{
+  "name": "bookhelenem.fr",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/polem/bookhelenem",
+  "authors": [
+    "Paul-Emile MINY <paulemile.miny@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "salvattore": "~1.0.7",
+    "jquery": "~2.1.1"
+  }
+}

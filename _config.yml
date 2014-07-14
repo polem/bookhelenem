@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: "Hélène Marcombes - Maquetiste / Assistante D.A."
 baseurl: ""
 url: "http://bookhelenem.fr"
-permalink: /:categories/:title
+permalink: none
 
 pygments: true
 github: [Repository metadata]

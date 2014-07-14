@@ -41,7 +41,7 @@ prismic.Api('https://book-helenem.prismic.io/api', function(error, api) {
 
         var work = {
           'title'  : item.fragments['work.name'].value[0]['text'],
-          'client' : item.fragments['work.client'].value[0]['text']
+          'client' : item.fragments['work.client'].value
         };
 
         work.gallery = [];

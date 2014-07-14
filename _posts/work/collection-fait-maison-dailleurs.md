@@ -1,6 +1,6 @@
 ---
 title: "Collection Fait Maison d'ailleurs"
-client: Hachette cuisine
+client: Hachette Cuisine
 gallery:
   - icon: "https://prismic-io.s3.amazonaws.com/book-helenem/11d292ff335ecee1e0945f8725545fe119171e4b.jpg"
     wide: "https://prismic-io.s3.amazonaws.com/book-helenem/3a4d710c6c962c07fdd2d853a28f9aba9866a2fe.jpg"
