@@ -22,7 +22,7 @@ gallery:
     column: "https://prismic-io.s3.amazonaws.com/book-helenem/3c45f593eef4caa4639f242799705765bf5cff0a.jpg"
 image:
   icon: "https://prismic-io.s3.amazonaws.com/book-helenem/235130f6c694bf75d9f3114eb17cf6a642f158ef.jpg"
-  wide: "https://prismic-io.s3.amazonaws.com/book-helenem/48cea66ec450e3743ca1cec15248373e71fe92a3.jpg"
+  wide: "https://prismic-io.s3.amazonaws.com/book-helenem/be309b2293d39e373e8cc88d35b7643fef482ab1.jpg"
   column: "https://prismic-io.s3.amazonaws.com/book-helenem/9de6a75ed40a51df7dbf000b9b06f430eee7b234.jpg"
 category: work
 layout: work

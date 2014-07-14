@@ -12,8 +12,8 @@ gallery:
     wide: "https://prismic-io.s3.amazonaws.com/book-helenem/cf06c7cce214c5f600b6760ded39244a4c6e532b.jpg"
     column: "https://prismic-io.s3.amazonaws.com/book-helenem/ed7bda1601a38d01f2e73a2ad825c1a5b18bef83.jpg"
 image:
-  icon: "https://prismic-io.s3.amazonaws.com/book-helenem/5f53f6c7359b82301c8e8efdcc0725671d45d485.jpg"
-  wide: "https://prismic-io.s3.amazonaws.com/book-helenem/fed7f978cc0e28d588c4cbe0bedf915497c15397.jpg"
+  icon: "https://prismic-io.s3.amazonaws.com/book-helenem/a49ece390ace6b14a3e86be9dc6a196a2baa8a35.jpg"
+  wide: "https://prismic-io.s3.amazonaws.com/book-helenem/82c7969d8c4b249a6f383ad2ef78e8a740589620.jpg"
   column: "https://prismic-io.s3.amazonaws.com/book-helenem/5a53d7759120ee2d9d39e495f7f016112f09cd07.jpg"
 category: work
 layout: work
