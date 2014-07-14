@@ -7,10 +7,11 @@ layout: default
   <div id="grid" data-columns>
       {% for work in site.categories.work %}
       <div class="work">
-          <!-- <span class="title"><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></span> -->
-          <span class="title">{{ work.title }}</span>
-          <span class="client">{{ work.client }}</span>
-          <img src="{{ work.image.column }}">
+          <a href="{{ work.url | prepend: site.baseurl }}">
+              <span class="title">{{ work.title }}</span>
+              <span class="client">{{ work.client }}</span>
+              <img src="{{ work.image.column }}">
+          </a>
       </div>
       {% endfor %}
   </div>
