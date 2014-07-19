@@ -1,7 +1,7 @@
 ---
 title: "Collection Fait Maison d'ailleurs"
 client: Hachette Cuisine
-gallery:
+gallery: 
   - icon: "https://prismic-io.s3.amazonaws.com/book-helenem/11d292ff335ecee1e0945f8725545fe119171e4b.jpg"
     wide: "https://prismic-io.s3.amazonaws.com/book-helenem/3a4d710c6c962c07fdd2d853a28f9aba9866a2fe.jpg"
     column: "https://prismic-io.s3.amazonaws.com/book-helenem/81f578e1c314369de6cfcefdb82d82662edcd1a4.jpg"
@@ -14,11 +14,16 @@ gallery:
   - icon: "https://prismic-io.s3.amazonaws.com/book-helenem/eb72236f4c6640fc78f6a77edba211c350a8e917.jpg"
     wide: "https://prismic-io.s3.amazonaws.com/book-helenem/67facd9a695cf69c777dea699c89c18232b29dd8.jpg"
     column: "https://prismic-io.s3.amazonaws.com/book-helenem/5ebbdfc29dff9de701a47628e6c10710ee1343f2.jpg"
-image:
+image: 
   icon: "https://prismic-io.s3.amazonaws.com/book-helenem/11d292ff335ecee1e0945f8725545fe119171e4b.jpg"
   wide: "https://prismic-io.s3.amazonaws.com/book-helenem/3a4d710c6c962c07fdd2d853a28f9aba9866a2fe.jpg"
   column: "https://prismic-io.s3.amazonaws.com/book-helenem/81f578e1c314369de6cfcefdb82d82662edcd1a4.jpg"
 category: work
 layout: work
+published: true
 ---
+
 # Collection Fait Maison d'ailleurs
+
+### test
+
