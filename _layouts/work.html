@@ -10,10 +10,10 @@ layout: default
 
   <article class="post-content">
 
-  <img src="{{ page.image.wide }}" />
+  <img src="{{ page.image.wide }}" class="img-responsive"/>
 
   {% for image in page.gallery %}
-  <img src="{{ image.wide }}" />
+  <img src="{{ image.wide }}" class="img-responsive"/>
   {% endfor %}
 
   {{ content }}
