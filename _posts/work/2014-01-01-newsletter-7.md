@@ -120,9 +120,8 @@ gallery:
     -
         wide: /images/8647d5bbb0372a9eaccc88e779efaca5/page_057.jpg
 image:
-    -
-        wide: /images/8647d5bbb0372a9eaccc88e779efaca5/page_001.jpg
-        column: /images/8647d5bbb0372a9eaccc88e779efaca5/thumb.png
+    wide: /images/8647d5bbb0372a9eaccc88e779efaca5/page_001.jpg
+    column: /images/8647d5bbb0372a9eaccc88e779efaca5/thumb.png
 
 ---
 # Newsletter 7

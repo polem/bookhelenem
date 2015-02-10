@@ -108,9 +108,8 @@ gallery:
     -
         wide: /images/75ef2a983968c6a2f51327cd77ee60d2/page_051.jpg
 image:
-    -
-        wide: /images/75ef2a983968c6a2f51327cd77ee60d2/page_001.jpg
-        column: /images/75ef2a983968c6a2f51327cd77ee60d2/thumb.png
+    wide: /images/75ef2a983968c6a2f51327cd77ee60d2/page_001.jpg
+    column: /images/75ef2a983968c6a2f51327cd77ee60d2/thumb.png
 
 ---
 # Newsletter 8

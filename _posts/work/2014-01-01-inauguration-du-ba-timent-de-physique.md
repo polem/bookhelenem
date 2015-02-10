@@ -38,9 +38,8 @@ gallery:
     -
         wide: /images/c225a36e4f7052f1a0eb951a729aee74/page_016.jpg
 image:
-    -
-        wide: /images/c225a36e4f7052f1a0eb951a729aee74/page_001.jpg
-        column: /images/c225a36e4f7052f1a0eb951a729aee74/thumb.png
+    wide: /images/c225a36e4f7052f1a0eb951a729aee74/page_001.jpg
+    column: /images/c225a36e4f7052f1a0eb951a729aee74/thumb.png
 
 ---
 # Inauguration du bâtiment de physique
