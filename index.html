@@ -10,7 +10,7 @@ layout: default
           <a href="{{ work.url | prepend: site.baseurl }}">
               <span class="title">{{ work.title }}</span>
               <span class="client">{{ work.client }}</span>
-              <img src="{{ work.image.column }}">
+              <img src="{{ work.image.column | prepend: site.baseurl}}">
           </a>
       </div>
       {% endfor %}
