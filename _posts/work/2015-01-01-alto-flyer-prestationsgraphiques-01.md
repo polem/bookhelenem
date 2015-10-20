@@ -1,7 +1,7 @@
 ---
 client: Alto – solutions artistiques
 year: 2015
-title: Alto Flyer Prestations Graphiques
+title: Alto flyer prestations graphiques
 category: work
 layout: work
 version: 2
@@ -23,4 +23,4 @@ image:
     column: /images/21e685c9562c24b6c5cfde2e85b11332/thumb.png
 
 ---
-# Alto Prestations Graphiques
+# Alto prestations graphiques
