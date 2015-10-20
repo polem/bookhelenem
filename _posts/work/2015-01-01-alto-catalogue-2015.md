@@ -1,7 +1,7 @@
 ---
 client: Alto – solutions artistiques
 year: 2015
-title: Alto Catalogue 2015
+title: Alto catalogue 2015
 category: work
 layout: work
 version: 2
@@ -33,4 +33,4 @@ image:
     column: /images/5f1bbe5daf792b37662c446777a6887f/thumb.png
 
 ---
-# Alto_Catalogue_2015
+# Alto catalogue 2015
