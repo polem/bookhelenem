@@ -4,6 +4,7 @@ year: 2014
 title: 'La lettre du Collège de France 36'
 category: work
 layout: work
+type: new
 gallery:
     -
         wide: /images/fa670b1e63a69c6a5e016fc9c8a1e2f2/page_001.jpg

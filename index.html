@@ -10,7 +10,11 @@ layout: default
           <a href="{{ work.url | prepend: site.baseurl }}">
               <span class="title">{{ work.title }}</span>
               <span class="client">{{ work.client }}</span>
+              {% if page.type == 'new' %}
               <img src="{{ work.image.column | prepend: site.baseurl}}">
+              {% else %}
+              <img src="{{ work.image.column }}">
+              {% endif %}
           </a>
       </div>
       {% endfor %}

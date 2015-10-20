@@ -4,6 +4,7 @@ year: 2014
 title: 'Inauguration du bâtiment de physique'
 category: work
 layout: work
+type: new
 gallery:
     -
         wide: /images/c225a36e4f7052f1a0eb951a729aee74/page_001.jpg

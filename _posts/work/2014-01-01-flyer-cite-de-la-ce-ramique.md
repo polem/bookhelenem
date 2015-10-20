@@ -3,6 +3,7 @@ client: 'Collège de France'
 year: 2014
 title: 'Flyer Cité de la céramique'
 category: work
+type: new
 layout: work
 gallery:
     -

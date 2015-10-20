@@ -4,6 +4,7 @@ year: 2014
 title: 'Newsletter 8'
 category: work
 layout: work
+type: new
 gallery:
     -
         wide: /images/75ef2a983968c6a2f51327cd77ee60d2/page_001.jpg
