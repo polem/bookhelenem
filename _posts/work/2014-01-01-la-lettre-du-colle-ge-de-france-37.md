@@ -4,7 +4,7 @@ year: 2014
 title: 'La lettre du Collège de France 37'
 category: work
 layout: work
-type: new
+prismic: false
 gallery:
     -
         wide: /images/9c07add6555091a24477c5117f630072/page_001.jpg

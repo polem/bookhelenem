@@ -4,7 +4,7 @@ year: 2014
 title: 'Newsletter 7'
 category: work
 layout: work
-type: new
+prismic: false
 gallery:
     -
         wide: /images/8647d5bbb0372a9eaccc88e779efaca5/page_001.jpg
