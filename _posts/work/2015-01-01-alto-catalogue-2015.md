@@ -1,5 +1,5 @@
 ---
-client: Alto
+client: Alto – solutions artistiques
 year: 2015
 title: Alto Catalogue 2015
 category: work
