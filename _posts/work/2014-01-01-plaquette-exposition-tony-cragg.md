@@ -4,7 +4,7 @@ year: 2014
 title: 'Plaquette exposition Tony Cragg'
 category: work
 layout: work
-prismic: false
+version: 2
 gallery:
     -
         wide: /images/48bde6567af91a7c449c5a08ec37eb57/page_001.jpg

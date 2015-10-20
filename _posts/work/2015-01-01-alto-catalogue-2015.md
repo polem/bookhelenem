@@ -4,7 +4,7 @@ year: 2015
 title: Alto Catalogue 2015
 category: work
 layout: work
-prismic: false
+version: 2
 gallery:
     -
         wide: /images/5f1bbe5daf792b37662c446777a6887f/page_001.jpg

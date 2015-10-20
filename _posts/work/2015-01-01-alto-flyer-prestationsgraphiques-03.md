@@ -4,7 +4,7 @@ year: 2015
 title: Alto Flyer PrestationsGraphiques 3
 category: work
 layout: work
-prismic: false
+version: 2
 gallery:
     -
         wide: /images/065d7cad5a04a5902ca4960a042ec7e0/page_001.jpg

@@ -10,14 +10,14 @@ layout: default
 
   <article class="post-content">
 
-  {% if page.type == 'new' %}
+  {% if page.version == 2 %}
   <img src="{{ page.image.wide | prepend: site.baseurl }}" class="img-responsive"/>
   {% else %}
   <img src="{{ page.image.wide }}" class="img-responsive"/>
   {% endif %}
 
   {% for image in page.gallery %}
-    {% if page.type == 'new' %}
+    {% if page.version == 2 %}
     <img src="{{ image.wide | prepend: site.baseurl }}" class="img-responsive"/>
     {% else %}
     <img src="{{ image.wide }}" class="img-responsive"/>

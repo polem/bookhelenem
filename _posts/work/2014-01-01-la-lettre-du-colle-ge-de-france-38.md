@@ -4,7 +4,7 @@ year: 2014
 title: 'La lettre du Collège de France 38'
 category: work
 layout: work
-prismic: false
+version: 2
 gallery:
     -
         wide: /images/902ed8233d49aaab6509a2bb48d7789e/page_001.jpg
