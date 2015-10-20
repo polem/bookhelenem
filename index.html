@@ -11,7 +11,7 @@ layout: default
               <span class="title">{{ work.title }}</span>
               <span class="client">{{ work.client }}</span>
               {% if page.version == 2 %}
-              <img src="{{ work.image.column | prepend: site.baseurl}}">
+              <img src="{{ work.image.column }}">
               {% else %}
               <img src="{{ work.image.column }}">
               {% endif %}
